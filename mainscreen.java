@@ -33,6 +33,9 @@ System.out.println(sb.toString());
 }
 public static void passcode() {
 
+	String val = ""+((int)(Math.random()*9000)+1000);
+	System.out.println("your passcode is" + " "+ val);
+
 	
 }
 }
