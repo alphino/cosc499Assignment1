@@ -4,8 +4,8 @@ public class mainscreen {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-	
-	    Scanner sc = new Scanner(System.in);
+		//this is a comment
+		Scanner sc = new Scanner(System.in);
 	    String input;
 	    
 	    System.out.println("This program will either generate a random username or a random 4-digit passcode"); 
