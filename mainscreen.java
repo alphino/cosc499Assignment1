@@ -7,7 +7,6 @@ public class mainscreen {
 		//this is a comment
 		Scanner sc = new Scanner(System.in);
 	    String input;
-		System.out.println("helloworld");
 	    System.out.println("This program will either generate a random username or a random 4-digit passcode"); 
 	    System.out.println("Enter if you want a username or a passcode"); 
 	    input = sc.nextLine();   
